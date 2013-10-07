@@ -2,6 +2,7 @@
 //PROG : Timothy Wiggins
 //PURP : Allows user to read page of directions, also test to make sure user enters
 //PURP : name before moving to another activity.
+//and to start game on different screen
 //Based loosely on Recipe text, pp43-44 & pp46 -49
 
 package wiggins_program4;

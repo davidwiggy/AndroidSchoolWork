@@ -1,5 +1,5 @@
 //FILE : PlayGameActivity.java
-//PROG : Timothy Wigigns
+//PROG : Dave Jones
 //PURP : Simulates start of game.  Allows user to update game level
 //Returns username and level in Bundle
 package wiggins_program4;

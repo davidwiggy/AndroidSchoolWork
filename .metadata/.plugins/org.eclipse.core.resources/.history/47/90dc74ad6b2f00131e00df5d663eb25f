@@ -1,6 +1,3 @@
-//FILE : DirectionsPageActivity.java
-//PROG : Timothy Wiggins
-//PURP : Displays of made up list of high scores in a listView
 package wiggins_program4;
 
 import edu.jones.demogamestartarrayadaptor.R;

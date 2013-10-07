@@ -1,6 +1,6 @@
 //FILE : DirectionsPageActivity.java
-//PROG : Timothy Wiggins
-//PURP : Shows "page of directions" in a ScrollView with a return button at the bottom
+//PROG : Dave Jones
+//PURP : Shows "page of directions" in a ScrollView
 package wiggins_program4;
 
 import edu.jones.demogamestartarrayadaptor.R;
