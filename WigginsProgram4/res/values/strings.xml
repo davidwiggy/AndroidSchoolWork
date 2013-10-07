@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="game_btn_title">Click to launch the Game (activity)</string>
+    <string name="back_home_str">Back Home</string>
+    <string name="app_name">Game Home Screen</string>
+    <string name="game_controlstr">Game Control</string>
+    <string name="type_name_str">(Type name here)</string>
+    <string name="done_str">Done</string>
+    <string name="empty_set_str">Empty set</string>
+    <string name="dirs_title">Directions Page</string>
+    <string name="game_title">Game Time</string>
+    <string name="play_game">Start Game</string>
+    <string name="end_game">Done?</string>
+    <string name="updated_game_level_str">Update game level below</string>
+    <string name="game_in_prog_str">Game In Progress</string>
+    <string name="input_name_prompt">Please enter your name&#8230;</string>
+    <string name="current_game_level_str">Game Level</string>
+    <string name="user_name">User Name</string>
+    <string name="curnt_user_name_str">Current User Name</string>
+    <string name="name_set">Your username</string>
+    <string name="directions_text">Here is along list of directions organized by a ScrollView\n
+    1. Study hard\n
+    2. Mind your parents\n
+    3. Do your homework\n
+    4. Mind your manners\n
+    5. Keep a stiff upper lip\n
+    6. Shut up\n
+    7. Read all the previous directions\n
+    8. Read all of the following directions\n
+    9. Follow all directions carefully!</string>
+    <string name="highest_scores">Highest Scores</string>
+    <string name="current_user_name">Current User Name</string>
+    <string name="top_10_high_scores">Top 10 High Scores</string>
+    <string name="scores">Scores</string>
+    <string name="name">Name</string>
+    <color name="yellow">#FFFF00</color>
+	<color name="fuchsia">#FF00FF</color>
+	<color name="red">#FF0000</color>
+	<color name="silver">#C0C0C0</color>
+	<color name="gray">#808080</color>
+	<color name="olive">#808000</color>
+	<color name="purple">#800080</color>
+	<color name="maroon">#800000</color>
+	<color name="aqua">#00FFFF</color>
+	<color name="lime">#00FF00</color>
+	<color name="teal">#008080</color>
+	<color name="green">#008000</color>
+	<color name="blue">#0000FF</color>
+	<color name="navy">#000080</color>
+	<color name="black">#000000</color>
+	<color name="white">#FFFFFF</color>
+		 
+
+</resources>

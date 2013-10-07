@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/doneBTN"
+        android:orientation="vertical" >
+       <ScrollView
+	        android:id="@+id/scroll"
+	        android:layout_width="match_parent"
+	        android:layout_height="fill_parent">   
+        <TextView
+            android:id="@+id/directions_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/directions_text"
+            android:textSize="30sp" />
+    	</ScrollView>  
+    </LinearLayout>
+    
+    <Button
+        android:id="@+id/doneBTN"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:text="@string/back_home_str" />
+
+</RelativeLayout>
