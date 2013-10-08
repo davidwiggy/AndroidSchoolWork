@@ -23,16 +23,16 @@ public class HighScoresActivity extends ListActivity
 	//Array of choices for user
 	static final String[] HIGH_SCORES = new String[]
 	{
-		"Timothy: 100",
-		"David: 98",
-		"Cassie: 89",
-		"Mike: 88",
-		"John: 77",
-		"Henry: 76",
-		"Ford: 66",
-		"Lee: 55",
-		"Ronnie: 54",
-		"Mia: 53"
+		"Timothy                    100",
+		"David                       98",
+		"Cassie                      89",
+		"Mike                        88",
+		"John                        77",
+		"Henry                       76",
+		"Ford                        66",
+		"Lee                         55",
+		"Ronnie                      54",
+		"Mia                         53"
 	};
 
 	@Override
@@ -49,7 +49,7 @@ public class HighScoresActivity extends ListActivity
 		
         //Set up ArrayAdaptor for the options
         setListAdapter(new ArrayAdapter<String>
-        	(this, android.R.layout.simple_list_item_1, HIGH_SCORES));
+        	(this, android.R.layout.simple_list_item_multiple_choice, HIGH_SCORES));
         getListView().setChoiceMode(ListView.CHOICE_MODE_SINGLE);
         getListView().setTextFilterEnabled(true);
         
